@@ -1,0 +1,11 @@
+h1 {
+			color: #F4793D;
+			text-align: center;
+			Font-size: 90px;
+		}
+		p, li, table {
+			font-size: 30px;
+		}
+		a {
+			color: #F4793D;
+		}
