@@ -3,9 +3,21 @@ h1 {
 			text-align: center;
 			Font-size: 90px;
 		}
-		p, li, table {
+p, li, table {
 			font-size: 30px;
 		}
-		a {
+a {
 			color: #F4793D;
 		}
+.container {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	justify-items: center;
+	align-items: center;
+	padding: 3px;
+}
+
+
+
+
+/*citation*/
